@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/bilalsu/portfolio-deployed/static/css/main.5383bd9b.chunk.css",
+    "main.js": "/bilalsu/portfolio-deployed/static/js/main.96f57cdd.chunk.js",
+    "main.js.map": "/bilalsu/portfolio-deployed/static/js/main.96f57cdd.chunk.js.map",
+    "runtime-main.js": "/bilalsu/portfolio-deployed/static/js/runtime-main.0f19d7f6.js",
+    "runtime-main.js.map": "/bilalsu/portfolio-deployed/static/js/runtime-main.0f19d7f6.js.map",
+    "static/js/2.174b1a13.chunk.js": "/bilalsu/portfolio-deployed/static/js/2.174b1a13.chunk.js",
+    "static/js/2.174b1a13.chunk.js.map": "/bilalsu/portfolio-deployed/static/js/2.174b1a13.chunk.js.map",
+    "static/js/3.73cd3121.chunk.js": "/bilalsu/portfolio-deployed/static/js/3.73cd3121.chunk.js",
+    "static/js/3.73cd3121.chunk.js.map": "/bilalsu/portfolio-deployed/static/js/3.73cd3121.chunk.js.map",
+    "index.html": "/bilalsu/portfolio-deployed/index.html",
+    "static/css/main.5383bd9b.chunk.css.map": "/bilalsu/portfolio-deployed/static/css/main.5383bd9b.chunk.css.map",
+    "static/js/2.174b1a13.chunk.js.LICENSE.txt": "/bilalsu/portfolio-deployed/static/js/2.174b1a13.chunk.js.LICENSE.txt",
+    "static/media/bilalresume.c7327d62.pdf": "/bilalsu/portfolio-deployed/static/media/bilalresume.c7327d62.pdf",
+    "static/media/designpadimage1.dd0a01af.png": "/bilalsu/portfolio-deployed/static/media/designpadimage1.dd0a01af.png",
+    "static/media/designpadimage2.a1b5cde4.png": "/bilalsu/portfolio-deployed/static/media/designpadimage2.a1b5cde4.png",
+    "static/media/designpadimage3.34902b2d.png": "/bilalsu/portfolio-deployed/static/media/designpadimage3.34902b2d.png",
+    "static/media/designpadimage4.cf701987.png": "/bilalsu/portfolio-deployed/static/media/designpadimage4.cf701987.png",
+    "static/media/favLinksImages1.e2f8f7be.png": "/bilalsu/portfolio-deployed/static/media/favLinksImages1.e2f8f7be.png",
+    "static/media/favLinksImages2.c71a22bc.png": "/bilalsu/portfolio-deployed/static/media/favLinksImages2.c71a22bc.png",
+    "static/media/smallbilal.44712821.jpg": "/bilalsu/portfolio-deployed/static/media/smallbilal.44712821.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f19d7f6.js",
+    "static/js/2.174b1a13.chunk.js",
+    "static/css/main.5383bd9b.chunk.css",
+    "static/js/main.96f57cdd.chunk.js"
+  ]
+}
